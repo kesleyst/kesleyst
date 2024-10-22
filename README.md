@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">30 years old from São Paulo, Brasil.<br><br>Currently, I'm:<br><br>↗️ Studying to become a Full Stack Developer<br>↗️ Studying to become a Python Programmer</p>
+<p align="left">31 years old from São Paulo, Brasil.<br><br>Currently, I'm:<br><br>↗️ Studying to become a Full Stack Developer<br>↗️ Studying to become a Python Programmer</p>
 
 ###
 
